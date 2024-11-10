@@ -17,26 +17,24 @@ Computer engineer by trade, full-stack developer in practice. Electronics and we
 
 ## What I've been listening to
 
+Add what's playing to your README [here](https://github.com/mdemore2/tidal-readme)!
+
 ### Last month
 
-![Last Month]({{last_month_img}})
+<img align=left src="{{last_month_img}}">
 
-| Track | Artist |
-| :-: | :-: |
 {% for track in last_month_tracks -%}
-| {{track.name}} | {{track.artist.name}} |
+{{loop.index}}. **{{track.name}}** by **{{track.artist.name}}**
 {% endfor %}
+
 
 ### Last year
 
 <img align=left src="{{last_year_img}}">
 
-{% for track in last_month_tracks -%}
-{{loop.index}}. {{track.name}} by {{track.artist.name}}
+{% for track in last_year_tracks -%}
+{{loop.index}}. **{{track.name}}** by **{{track.artist.name}}**
 {% endfor %}
-
-
-Add what's playing to your README [here](https://github.com/mdemore2/tidal-readme)!
 
 <!--
 **mdemore2/mdemore2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
