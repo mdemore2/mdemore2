@@ -1,8 +1,11 @@
 # Mark Demore II 👨‍💻 🛰️
 
-### Hi there 👋
+## Hi there 👋
 
 Computer engineer by trade, full-stack developer in practice. Electronics and web-development hobbyist.
+
+- :floppy_disk: I'm currently working on my homelab
+- :spider_web: I'm currently learning React
 
 ### Let's connect
 
@@ -12,9 +15,35 @@ Computer engineer by trade, full-stack developer in practice. Electronics and we
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,kubernetes,docker&perline=5)](https://skillicons.dev)
 
+## What I've been listening to
+
+### Last month
+
+![Last Month](https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokZDZiZmZlZGMvNzhiZi80ZmQ5L2E4NzgvM2RiYjgxNmQxODE5IhBNeSBNb3N0IExpc3RlbmVkIgdPQ1RPQkVSKgcjQ0JBREZGMAQ?token=2c0dfadb5f6ca6c55b5fc40aa3ca21eee5b4d1fd)
+
+| Track | Artist |
+| :-: | :-: |
+| Just Shadows | Parquet Courts |
+| 4 American Dollars | U.S. Girls |
+| Impostor Syndrome | Sidney Gish |
+| Expert In A Dying Field | The Beths |
+| to Perth, before the border closes | Julia Jacklin |
 
 
+### Last year
 
+![Last Year](https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBBokNjU1OWEzMjkvYmE0Ny80MDczLzljNTYvMjdhMDM4NDIyZDU2GiQ5MDA4ZjJkNS9kMDM0LzRjYTkvODM2ZC83Yzg2NjQwNjkwZDUaJDhjZWVkYTI1LzZkYjcvNDI5Ny9hZjZiLzhkZDEyMjNjNWYwYiIQTXkgTW9zdCBMaXN0ZW5lZCIEMjAyMyoHI0Y5QTE5MjAD?token=913aec29605d10ed168e3e4547cee76595f16406)
+
+| Track | Artist |
+| :-: | :-: |
+| Sarah | Alex G |
+| Impossible Germany | Wilco |
+| Write A List of Things To Look Forward To | Courtney Barnett |
+| After The Earthquake | Alvvays |
+| Watching Strangers Smile | Parquet Courts |
+
+
+Add what's playing to your README [here](https://github.com/mdemore2/tidal-readme)!
 <!--
 **mdemore2/mdemore2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
