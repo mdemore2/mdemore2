@@ -29,15 +29,21 @@ Computer engineer by trade, full-stack developer in practice. Electronics and we
 
 ### Last year
 
-![Last Year]({{last_year_img}})
+<div style="display: inline-flex; justify-content: space-evenly; gap: 1rem;">
 
-| Track | Artist |
-| :-: | :-: |
-{% for track in last_year_tracks -%}
-| {{track.name}} | {{track.artist.name}} |
+<img  style="flex: auto;" src="{{last_year_img}}">
+
+<table style="flex: auto;">
+<tr> <th>Track</th><th> Artist</th></tr>
+{% for track in last_month_tracks -%}
+<tr> <td>{{track.name}}</td><td>{{track.artist.name}}</td></tr>
 {% endfor %}
+</table>
+
+</div>
 
 Add what's playing to your README [here](https://github.com/mdemore2/tidal-readme)!
+
 <!--
 **mdemore2/mdemore2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
