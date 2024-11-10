@@ -32,21 +32,15 @@ Computer engineer by trade, full-stack developer in practice. Electronics and we
 
 ### Last year
 
-<div style="display: inline-flex; justify-content: space-evenly; gap: 1rem;">
+<img align=left src="https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBBokNjU1OWEzMjkvYmE0Ny80MDczLzljNTYvMjdhMDM4NDIyZDU2GiQ5MDA4ZjJkNS9kMDM0LzRjYTkvODM2ZC83Yzg2NjQwNjkwZDUaJDhjZWVkYTI1LzZkYjcvNDI5Ny9hZjZiLzhkZDEyMjNjNWYwYiIQTXkgTW9zdCBMaXN0ZW5lZCIEMjAyMyoHI0Y5QTE5MjAD?token=913aec29605d10ed168e3e4547cee76595f16406">
 
-<img  style="flex: auto;" src="https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBBokNjU1OWEzMjkvYmE0Ny80MDczLzljNTYvMjdhMDM4NDIyZDU2GiQ5MDA4ZjJkNS9kMDM0LzRjYTkvODM2ZC83Yzg2NjQwNjkwZDUaJDhjZWVkYTI1LzZkYjcvNDI5Ny9hZjZiLzhkZDEyMjNjNWYwYiIQTXkgTW9zdCBMaXN0ZW5lZCIEMjAyMyoHI0Y5QTE5MjAD?token=913aec29605d10ed168e3e4547cee76595f16406">
+1. Just Shadows by Parquet Courts
+2. 4 American Dollars by U.S. Girls
+3. Impostor Syndrome by Sidney Gish
+4. Expert In A Dying Field by The Beths
+5. to Perth, before the border closes by Julia Jacklin
 
-<table style="flex: auto;">
-<tr> <th>Track</th><th> Artist</th></tr>
-<tr> <td>Just Shadows</td><td>Parquet Courts</td></tr>
-<tr> <td>4 American Dollars</td><td>U.S. Girls</td></tr>
-<tr> <td>Impostor Syndrome</td><td>Sidney Gish</td></tr>
-<tr> <td>Expert In A Dying Field</td><td>The Beths</td></tr>
-<tr> <td>to Perth, before the border closes</td><td>Julia Jacklin</td></tr>
 
-</table>
-
-</div>
 
 Add what's playing to your README [here](https://github.com/mdemore2/tidal-readme)!
 
