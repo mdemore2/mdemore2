@@ -29,18 +29,12 @@ Computer engineer by trade, full-stack developer in practice. Electronics and we
 
 ### Last year
 
-<div style="display: inline-flex; justify-content: space-evenly; gap: 1rem;">
+<img align=left src="{{last_year_img}}">
 
-<img  style="flex: auto;" src="{{last_year_img}}">
-
-<table style="flex: auto;">
-<tr> <th>Track</th><th> Artist</th></tr>
 {% for track in last_month_tracks -%}
-<tr> <td>{{track.name}}</td><td>{{track.artist.name}}</td></tr>
+{{loop.index}}. {{track.name}} by {{track.artist.name}}
 {% endfor %}
-</table>
 
-</div>
 
 Add what's playing to your README [here](https://github.com/mdemore2/tidal-readme)!
 
