@@ -21,13 +21,13 @@ Add what's playing to your README [here](https://github.com/mdemore2/tidal-readm
 
 ### Last month
 
-<img align=left src="https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokZDZiZmZlZGMvNzhiZi80ZmQ5L2E4NzgvM2RiYjgxNmQxODE5IhBNeSBNb3N0IExpc3RlbmVkIgdPQ1RPQkVSKgcjQ0JBREZGMAQ?token=2c0dfadb5f6ca6c55b5fc40aa3ca21eee5b4d1fd">
+<img align=left src="https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokZTJlODJjNTMvZDVmOC80ODU2L2E3ZTMvZTY5MjNhYWViZTNlIhBNeSBNb3N0IExpc3RlbmVkIghOT1ZFTUJFUioHI0ZDQUVEODAE?token=dd317d021fd917cda03b8382badcf10e092e0d0c">
 
-1. **Just Shadows** by **Parquet Courts**
-2. **4 American Dollars** by **U.S. Girls**
-3. **Impostor Syndrome** by **Sidney Gish**
-4. **Expert In A Dying Field** by **The Beths**
-5. **to Perth, before the border closes** by **Julia Jacklin**
+1. **Add Up My Love** by **Clairo**
+2. **Red Wine Supernova** by **Chappell Roan**
+3. **Thinking About You** by **Faye Webster**
+4. **Hot Rod** by **Dayglow**
+5. **From The Start** by **Laufey**
 
 
 
