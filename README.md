@@ -21,13 +21,13 @@ Add what's playing to your README [here](https://github.com/mdemore2/tidal-readm
 
 ### Last month
 
-<img align=left src="https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokZTJlODJjNTMvZDVmOC80ODU2L2E3ZTMvZTY5MjNhYWViZTNlIhBNeSBNb3N0IExpc3RlbmVkIghOT1ZFTUJFUioHI0ZDQUVEODAE?token=dd317d021fd917cda03b8382badcf10e092e0d0c">
+<img align=left src="https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokZjIxNDUyZDQvMzJkYi80YjVkLzk5NmIvYzc1M2E4OTg2M2E3IhBNeSBNb3N0IExpc3RlbmVkIghERUNFTUJFUioHI0E4RjdDMjAE?token=dde0be81ac61889153852d297e6be0d7f7bb77d0">
 
-1. **Add Up My Love** by **Clairo**
-2. **Red Wine Supernova** by **Chappell Roan**
-3. **Thinking About You** by **Faye Webster**
+1. **Thinking About You** by **Faye Webster**
+2. **Angelica** by **Wet Leg**
+3. **Add Up My Love** by **Clairo**
 4. **Hot Rod** by **Dayglow**
-5. **From The Start** by **Laufey**
+5. **Expert In A Dying Field** by **The Beths**
 
 
 
