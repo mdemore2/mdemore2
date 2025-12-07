@@ -21,25 +21,25 @@ Add what's playing to your README [here](https://github.com/mdemore2/tidal-readm
 
 ### Last month
 
-<img align=left src="https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokZjIxNDUyZDQvMzJkYi80YjVkLzk5NmIvYzc1M2E4OTg2M2E3IhBNeSBNb3N0IExpc3RlbmVkIghERUNFTUJFUioHI0E4RjdDMjAE?token=dde0be81ac61889153852d297e6be0d7f7bb77d0">
+<img align=left src="https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokMDEwNmExZTAvY2IwZC80ZThjL2JkMmMvN2ViMGVkNTNiOTZjIhBNeSBNb3N0IExpc3RlbmVkIghOT1ZFTUJFUioHI0E4RjdDMjAE?token=3fb9cafcdb64233b921e745d484ae67cafca863c">
 
-1. **Thinking About You** by **Faye Webster**
-2. **Angelica** by **Wet Leg**
-3. **Add Up My Love** by **Clairo**
-4. **Hot Rod** by **Dayglow**
-5. **Expert In A Dying Field** by **The Beths**
+1. **Cherry Hard Candy** by **Snocaps**
+2. **Avalanche** by **Snocaps**
+3. **Heathcliff** by **Snocaps**
+4. **Coast** by **Snocaps**
+5. **You In Rehab** by **Snocaps**
 
 
 
 ### Last year
 
-<img align=left src="https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBBokNjU1OWEzMjkvYmE0Ny80MDczLzljNTYvMjdhMDM4NDIyZDU2GiQ5MDA4ZjJkNS9kMDM0LzRjYTkvODM2ZC83Yzg2NjQwNjkwZDUaJDhjZWVkYTI1LzZkYjcvNDI5Ny9hZjZiLzhkZDEyMjNjNWYwYiIQTXkgTW9zdCBMaXN0ZW5lZCIEMjAyMyoHI0Y5QTE5MjAD?token=913aec29605d10ed168e3e4547cee76595f16406">
+<img align=left src="https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBBokNGQ3ZTVmZGIvZjNmMi80MmQwL2FkNGUvMzMwZDE4ZGFmNjRhGiQyODcxMTM0Mi83NDRiLzQ3MDUvYWMzNC9kN2MxNjVhNzVhMTUaJDNiZDYxOGJlLzZkMTIvNDA1ZS84MjBjLzNmNjQ4OTM3ZDk4MiIQTXkgTW9zdCBMaXN0ZW5lZCIEMjAyNCoHI0E1RTNGRjAD?token=c7fc1191a1c724151271c45e245942903bd523fa">
 
-1. **Sarah** by **Alex G**
-2. **Impossible Germany** by **Wilco**
-3. **Write A List of Things To Look Forward To** by **Courtney Barnett**
-4. **After The Earthquake** by **Alvvays**
-5. **Watching Strangers Smile** by **Parquet Courts**
+1. **Angelica** by **Wet Leg**
+2. **Expert In A Dying Field** by **The Beths**
+3. **All I Do** by **Bully**
+4. **Shotgun** by **Soccer Mommy**
+5. **Add Up My Love** by **Clairo**
 
 
 <!--

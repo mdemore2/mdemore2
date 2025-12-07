@@ -31,7 +31,7 @@ for category in home.categories:
                 print(item.title)
                 last_year = item.get()
                 last_year_thumbnail_url = last_year.image()
-                tracks = last_year.items()
+                tracks = last_year._items
                 last_year_tracks = []
                 for i in range(0, 5):
                     last_year_tracks.append(tracks[i]._get(tracks[i].id))            
@@ -39,7 +39,7 @@ for category in home.categories:
                 print(item.title)
                 last_month = item.get()
                 last_month_thumbnail_url = last_month.image()
-                tracks = last_month.items()
+                tracks = last_month._items
                 last_month_tracks = []
                 for i in range(0, 5):
                     last_month_tracks.append(tracks[i]._get(tracks[i].id))
