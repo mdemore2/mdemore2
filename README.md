@@ -21,13 +21,13 @@ Add what's playing to your README [here](https://github.com/mdemore2/tidal-readm
 
 ### Last month
 
-<img align=left src="https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokMDEwNmExZTAvY2IwZC80ZThjL2JkMmMvN2ViMGVkNTNiOTZjIhBNeSBNb3N0IExpc3RlbmVkIghOT1ZFTUJFUioHI0E4RjdDMjAE?token=3fb9cafcdb64233b921e745d484ae67cafca863c">
+<img align=left src="https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokN2E1NDQwNmYvYTBjZi80MTZjLzhiYjAvMjgyZjFkOTU2Njg1IhBNeSBNb3N0IExpc3RlbmVkIghERUNFTUJFUioHI0E1RTNGRjAE?token=60cbcf401fa72516f626b040b28565154547d6c7">
 
-1. **Cherry Hard Candy** by **Snocaps**
-2. **Avalanche** by **Snocaps**
-3. **Heathcliff** by **Snocaps**
-4. **Coast** by **Snocaps**
-5. **You In Rehab** by **Snocaps**
+1. **When A Good Man Cries** by **CMAT**
+2. **Cobra** by **Geese**
+3. **Potion** by **Djo**
+4. **Lonely Cosmos** by **King Gizzard & The Lizard Wizard**
+5. **Avalanche** by **Snocaps**
 
 
 
