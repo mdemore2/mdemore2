@@ -33,13 +33,13 @@ Add what's playing to your README [here](https://github.com/mdemore2/tidal-readm
 
 ### Last year
 
-<img align=left src="https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBBokNGQ3ZTVmZGIvZjNmMi80MmQwL2FkNGUvMzMwZDE4ZGFmNjRhGiQyODcxMTM0Mi83NDRiLzQ3MDUvYWMzNC9kN2MxNjVhNzVhMTUaJDNiZDYxOGJlLzZkMTIvNDA1ZS84MjBjLzNmNjQ4OTM3ZDk4MiIQTXkgTW9zdCBMaXN0ZW5lZCIEMjAyNCoHI0E1RTNGRjAD?token=c7fc1191a1c724151271c45e245942903bd523fa">
+<img align=left src="https://resources.tidal.com/images/rewind_icon_2025_267.jpg?rewind2025">
 
-1. **Angelica** by **Wet Leg**
-2. **Expert In A Dying Field** by **The Beths**
-3. **All I Do** by **Bully**
-4. **Shotgun** by **Soccer Mommy**
-5. **Add Up My Love** by **Clairo**
+1. **Add Up My Love** by **Clairo**
+2. **Thinking About You** by **Faye Webster**
+3. **Loretta** by **Ginger Root**
+4. **Show Me How** by **Men I Trust**
+5. **Good Grief** by **Dr. Dog**
 
 
 <!--
