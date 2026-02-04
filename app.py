@@ -20,7 +20,7 @@ home = session.home()
 
 
 prev = date.today().replace(day=1) - timedelta(days=1)
-year = str((date.today() - timedelta(days=1)).year)
+year = str(date.today().year - 1)
 month = prev.strftime('%B %Y')
 
 
