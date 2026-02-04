@@ -21,13 +21,13 @@ Add what's playing to your README [here](https://github.com/mdemore2/tidal-readm
 
 ### Last month
 
-<img align=left src="https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokN2E1NDQwNmYvYTBjZi80MTZjLzhiYjAvMjgyZjFkOTU2Njg1IhBNeSBNb3N0IExpc3RlbmVkIghERUNFTUJFUioHI0E1RTNGRjAE?token=60cbcf401fa72516f626b040b28565154547d6c7">
+<img align=left src="https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokZTJlODJjNTMvZDVmOC80ODU2L2E3ZTMvZTY5MjNhYWViZTNlIhBNeSBNb3N0IExpc3RlbmVkIgdKQU5VQVJZKgcjRkNBRUQ4MAQ?token=51367158b70e0f39181b6fa922a4766e7a6c226b">
 
-1. **When A Good Man Cries** by **CMAT**
-2. **Cobra** by **Geese**
-3. **Potion** by **Djo**
-4. **Lonely Cosmos** by **King Gizzard & The Lizard Wizard**
-5. **Avalanche** by **Snocaps**
+1. **Add Up My Love** by **Clairo**
+2. **Anytime, Always** by **Wallows**
+3. **Ego Death At A Bachelorette Party** by **Hayley Williams**
+4. **Picture Window** by **Japanese Breakfast**
+5. **Fat Dog** by **Dr. Dog**
 
 
 
