@@ -21,13 +21,13 @@ Add what's playing to your README [here](https://github.com/mdemore2/tidal-readm
 
 ### Last month
 
-<img align=left src="https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokZTJlODJjNTMvZDVmOC80ODU2L2E3ZTMvZTY5MjNhYWViZTNlIhBNeSBNb3N0IExpc3RlbmVkIgdKQU5VQVJZKgcjRkNBRUQ4MAQ?token=51367158b70e0f39181b6fa922a4766e7a6c226b">
+<img align=left src="https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokY2FkYTM4NTIvNzhjNy80NjI4Lzg2NTUvNzE1ODEyMTRiOWQ2IhBNeSBNb3N0IExpc3RlbmVkIghGRUJSVUFSWSoHI0ZCRDI5MzAE?token=0e39395c605895803db218459ad28d8a93d9b068">
 
-1. **Add Up My Love** by **Clairo**
-2. **Anytime, Always** by **Wallows**
-3. **Ego Death At A Bachelorette Party** by **Hayley Williams**
-4. **Picture Window** by **Japanese Breakfast**
-5. **Fat Dog** by **Dr. Dog**
+1. **Good Grief** by **Dr. Dog**
+2. **Thinking About You** by **Faye Webster**
+3. **Add Up My Love** by **Clairo**
+4. **Potion** by **Djo**
+5. **The Edge** by **Sydney Ross Mitchell**
 
 
 
