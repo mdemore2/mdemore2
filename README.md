@@ -21,13 +21,13 @@ Add what's playing to your README [here](https://github.com/mdemore2/tidal-readm
 
 ### Last month
 
-<img align=left src="https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokY2FkYTM4NTIvNzhjNy80NjI4Lzg2NTUvNzE1ODEyMTRiOWQ2IhBNeSBNb3N0IExpc3RlbmVkIghGRUJSVUFSWSoHI0ZCRDI5MzAE?token=0e39395c605895803db218459ad28d8a93d9b068">
+<img align=left src="https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokYzY2YmZkMGUvMWJiNC80MWMxL2FjMDkvZWE1Zjk1YzU3MzkxIhBNeSBNb3N0IExpc3RlbmVkIgVNQVJDSCoHI0Y5QTE5MjAE?token=7bac6479c5be0b6aaeb3005cb248502dc2095bfb">
 
-1. **Good Grief** by **Dr. Dog**
-2. **Thinking About You** by **Faye Webster**
-3. **Add Up My Love** by **Clairo**
-4. **Potion** by **Djo**
-5. **The Edge** by **Sydney Ross Mitchell**
+1. **Cobra** by **Geese**
+2. **Count The Ways** by **The Last Dinner Party**
+3. **Townies** by **Wednesday**
+4. **Tree Six Foive** by **CMAT**
+5. **Listen2me** by **Foxwarren**
 
 
 
