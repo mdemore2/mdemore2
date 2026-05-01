@@ -21,13 +21,13 @@ Add what's playing to your README [here](https://github.com/mdemore2/tidal-readm
 
 ### Last month
 
-<img align=left src="https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokYzY2YmZkMGUvMWJiNC80MWMxL2FjMDkvZWE1Zjk1YzU3MzkxIhBNeSBNb3N0IExpc3RlbmVkIgVNQVJDSCoHI0Y5QTE5MjAE?token=7bac6479c5be0b6aaeb3005cb248502dc2095bfb">
+<img align=left src="https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokNzEzZThiMmYvNGZhNS80NGQ0L2JlZGQvYTYwOGZmODdhNDQ4IhBNeSBNb3N0IExpc3RlbmVkIgVBUFJJTCoHI0Y5QTE5MjAE?token=dc3eebd328545e32551de64624b68f5ef258f9df">
 
-1. **Cobra** by **Geese**
-2. **Count The Ways** by **The Last Dinner Party**
-3. **Townies** by **Wednesday**
-4. **Tree Six Foive** by **CMAT**
-5. **Listen2me** by **Foxwarren**
+1. **Wristwatch** by **MJ Lenderman**
+2. **One Thing At A Time** by **Courtney Barnett**
+3. **Magpie** by **Peach Pit**
+4. **Brian's Movie** by **Peach Pit**
+5. **Mantis** by **Courtney Barnett**
 
 
 
