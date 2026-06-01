@@ -21,13 +21,13 @@ Add what's playing to your README [here](https://github.com/mdemore2/tidal-readm
 
 ### Last month
 
-<img align=left src="https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokNzEzZThiMmYvNGZhNS80NGQ0L2JlZGQvYTYwOGZmODdhNDQ4IhBNeSBNb3N0IExpc3RlbmVkIgVBUFJJTCoHI0Y5QTE5MjAE?token=dc3eebd328545e32551de64624b68f5ef258f9df">
+<img align=left src="https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokYjc3NTM1ZjUvYzQwZi80YjhmLzlmMmUvODJlNjNjZmE5ZTdhIhBNeSBNb3N0IExpc3RlbmVkIgNNQVkqByNGQkQyOTMwBA?token=2ec80906388f2d63cf001940be955ea98d745035">
 
-1. **Wristwatch** by **MJ Lenderman**
-2. **One Thing At A Time** by **Courtney Barnett**
-3. **Magpie** by **Peach Pit**
-4. **Brian's Movie** by **Peach Pit**
-5. **Mantis** by **Courtney Barnett**
+1. **Shotput** by **Still Woozy**
+2. **Magpie** by **Peach Pit**
+3. **Shoplifter** by **Ty Segall**
+4. **Townies** by **Wednesday**
+5. **Without Eyes** by **Brooks Nielsen**
 
 
 
