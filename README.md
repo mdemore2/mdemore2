@@ -21,13 +21,13 @@ Add what's playing to your README [here](https://github.com/mdemore2/tidal-readm
 
 ### Last month
 
-<img align=left src="https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokYjc3NTM1ZjUvYzQwZi80YjhmLzlmMmUvODJlNjNjZmE5ZTdhIhBNeSBNb3N0IExpc3RlbmVkIgNNQVkqByNGQkQyOTMwBA?token=2ec80906388f2d63cf001940be955ea98d745035">
+<img align=left src="https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokZWY1YzNkMDcvYzhkMC80YWZlL2E0MmUvYTJkZWM5YWY4YTUyIhBNeSBNb3N0IExpc3RlbmVkIgRKVU5FKgcjRkJEMjkzMAQ?token=736c71379225ff6517e5fbaae877dffac466890e">
 
-1. **Shotput** by **Still Woozy**
-2. **Magpie** by **Peach Pit**
-3. **Shoplifter** by **Ty Segall**
-4. **Townies** by **Wednesday**
-5. **Without Eyes** by **Brooks Nielsen**
+1. **I Want You (Fever)** by **MOMMA**
+2. **Shotput** by **Still Woozy**
+3. **Making Flippy Floppy (2005 Remaster)** by **Talking Heads**
+4. **Blue Hair** by **TV Girl**
+5. **What Once Was** by **Her's**
 
 
 
