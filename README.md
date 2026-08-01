@@ -21,13 +21,13 @@ Add what's playing to your README [here](https://github.com/mdemore2/tidal-readm
 
 ### Last month
 
-<img align=left src="https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokZWY1YzNkMDcvYzhkMC80YWZlL2E0MmUvYTJkZWM5YWY4YTUyIhBNeSBNb3N0IExpc3RlbmVkIgRKVU5FKgcjRkJEMjkzMAQ?token=736c71379225ff6517e5fbaae877dffac466890e">
+<img align=left src="https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokMWI1ZmU2NTYvYzI1ZC80MTU3LzhmNGEvMWE1NGU3OGNlNjY2IhBNeSBNb3N0IExpc3RlbmVkIgRKVUxZKgcjRkNBRUQ4MAQ?token=59bf9ab4d3bf689e9bdcf8ea59f96e7b89ce3401">
 
-1. **I Want You (Fever)** by **MOMMA**
-2. **Shotput** by **Still Woozy**
-3. **Making Flippy Floppy (2005 Remaster)** by **Talking Heads**
-4. **Blue Hair** by **TV Girl**
-5. **What Once Was** by **Her's**
+1. **Magpie** by **Peach Pit**
+2. **Metal** by **The Beths**
+3. **Chasm** by **Beach Bunny**
+4. **Big Pink Bubble** by **Beach Bunny**
+5. **Mega Circuit** by **Japanese Breakfast**
 
 
 
