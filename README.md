@@ -21,13 +21,13 @@ Add what's playing to your README [here](https://github.com/mdemore2/tidal-readm
 
 ### Last month
 
-<img align=left src="https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokMWI1ZmU2NTYvYzI1ZC80MTU3LzhmNGEvMWE1NGU3OGNlNjY2IhBNeSBNb3N0IExpc3RlbmVkIgRKVUxZKgcjRkNBRUQ4MAQ?token=59bf9ab4d3bf689e9bdcf8ea59f96e7b89ce3401">
+<img align=left src="https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokZTJlODJjNTMvZDVmOC80ODU2L2E3ZTMvZTY5MjNhYWViZTNlIhBNeSBNb3N0IExpc3RlbmVkIgZBVUdVU1QqByNBOEY3QzIwBA?token=4be570d8d83a4e9638116e5d06a548c6fa6e054b">
 
-1. **Magpie** by **Peach Pit**
-2. **Metal** by **The Beths**
-3. **Chasm** by **Beach Bunny**
-4. **Big Pink Bubble** by **Beach Bunny**
-5. **Mega Circuit** by **Japanese Breakfast**
+1. **Mega Circuit** by **Japanese Breakfast**
+2. **Add Up My Love** by **Clairo**
+3. **Sad Disco** by **Flipturn**
+4. **Brian's Movie** by **Peach Pit**
+5. **Mantis** by **Courtney Barnett**
 
 
 
