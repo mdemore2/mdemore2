@@ -21,13 +21,13 @@ Add what's playing to your README [here](https://github.com/mdemore2/tidal-readm
 
 ### Last month
 
-<img align=left src="https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokZTJlODJjNTMvZDVmOC80ODU2L2E3ZTMvZTY5MjNhYWViZTNlIhBNeSBNb3N0IExpc3RlbmVkIgZBVUdVU1QqByNBOEY3QzIwBA?token=4be570d8d83a4e9638116e5d06a548c6fa6e054b">
+<img align=left src="https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokN2E1NDQwNmYvYTBjZi80MTZjLzhiYjAvMjgyZjFkOTU2Njg1IhBNeSBNb3N0IExpc3RlbmVkIglTRVBURU1CRVIqByNDQkFERkYwBA?token=a41588e78510574717b68e72624047cbd365d5db">
 
-1. **Mega Circuit** by **Japanese Breakfast**
-2. **Add Up My Love** by **Clairo**
-3. **Sad Disco** by **Flipturn**
-4. **Brian's Movie** by **Peach Pit**
-5. **Mantis** by **Courtney Barnett**
+1. **When A Good Man Cries** by **Cmat**
+2. **Toro** by **Remi Wolf**
+3. **The Jamie Oliver Petrol Station** by **Cmat**
+4. **EURO-COUNTRY** by **Cmat**
+5. **Lemon** by **Still Woozy**
 
 
 
