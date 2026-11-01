@@ -21,13 +21,13 @@ Add what's playing to your README [here](https://github.com/mdemore2/tidal-readm
 
 ### Last month
 
-<img align=left src="https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokN2E1NDQwNmYvYTBjZi80MTZjLzhiYjAvMjgyZjFkOTU2Njg1IhBNeSBNb3N0IExpc3RlbmVkIglTRVBURU1CRVIqByNDQkFERkYwBA?token=a41588e78510574717b68e72624047cbd365d5db">
+<img align=left src="https://images.tidal.com/0/EIsCGIsCIKABKKAB/CAEQBRokMmIyMWU0YzAvODU5Zi80NjQ4L2JkZDMvZTQwMWM1YTRjMWY1IhBNeSBNb3N0IExpc3RlbmVkIgdPQ1RPQkVSKgcjQ0JBREZGMAQ?token=339fd50ac780066e9a9b136eec12e655b742b814">
 
-1. **When A Good Man Cries** by **Cmat**
-2. **Toro** by **Remi Wolf**
-3. **The Jamie Oliver Petrol Station** by **Cmat**
-4. **EURO-COUNTRY** by **Cmat**
-5. **Lemon** by **Still Woozy**
+1. **Listen2me** by **Foxwarren**
+2. **After The Earthquake** by **Alvvays**
+3. **Marianne** by **Fontaines D.C.**
+4. **Javelin** by **Kevin Morby**
+5. **You Think You Know** by **Ligeia**
 
 
 
